@@ -1,1 +1,1 @@
-My first readme
+Abstraction is beauty
